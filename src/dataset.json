@@ -1,0 +1,154 @@
+{
+	"data": [
+		{
+			"address": "592-8928 Leo, Rd.",
+			"latitude": -74.006,
+			"longitude": 40.7128,
+			"country": "Turkey"
+		},
+		{
+			"address": "373-9859 Scelerisque, Ave",
+			"latitude": -74.006,
+			"longitude": 41.7128,
+			"country": "Ireland"
+		},
+		{
+			"address": "Ap #607-2726 At St.",
+			"latitude": 86.618151424,
+			"longitude": 118.3247374336,
+			"country": "Chile"
+		},
+		{
+			"address": "Ap #207-9789 Leo. St.",
+			"latitude": -48.2723241984,
+			"longitude": -122.294247424,
+			"country": "Peru"
+		},
+		{
+			"address": "1528 Enim Rd.",
+			"latitude": 18.8451008512,
+			"longitude": 145.8169457664,
+			"country": "Germany"
+		},
+		{
+			"address": "9545 Mauris Rd.",
+			"latitude": -61.9951466496,
+			"longitude": 107.0994448384,
+			"country": "Chile"
+		},
+		{
+			"address": "Ap #802-3543 Porttitor Rd.",
+			"latitude": 0.5094355968,
+			"longitude": -176.8018065408,
+			"country": "Sweden"
+		},
+		{
+			"address": "P.O. Box 459, 8309 Ridiculus St.",
+			"latitude": 28.9596427264,
+			"longitude": 142.4320494592,
+			"country": "China"
+		},
+		{
+			"address": "Ap #969-8170 Etiam Rd.",
+			"latitude": -52.33812736,
+			"longitude": 69.0315792384,
+			"country": "Germany"
+		},
+		{
+			"address": "P.O. Box 724, 7229 Nulla Road",
+			"latitude": 68.1733561344,
+			"longitude": -170.2714295296,
+			"country": "Turkey"
+		},
+		{
+			"address": "597-9860 Felis St.",
+			"latitude": 43.53309184,
+			"longitude": 41.4685524992,
+			"country": "Pakistan"
+		},
+		{
+			"address": "Ap #910-8250 Gravida. St.",
+			"latitude": -41.7173325824,
+			"longitude": 5.4376896512,
+			"country": "Poland"
+		},
+		{
+			"address": "P.O. Box 628, 6659 Iaculis, Road",
+			"latitude": 16.5409323008,
+			"longitude": 143.957674496,
+			"country": "Vietnam"
+		},
+		{
+			"address": "Ap #128-5831 Auctor Ave",
+			"latitude": 86.1913821184,
+			"longitude": 178.1044242432,
+			"country": "Ukraine"
+		},
+		{
+			"address": "6069 Iaculis Road",
+			"latitude": 34.5145091072,
+			"longitude": -47.5149220864,
+			"country": "Australia"
+		},
+		{
+			"address": "P.O. Box 273, 1749 Pharetra. Av.",
+			"latitude": -32.858935808,
+			"longitude": -12.8929261568,
+			"country": "Norway"
+		},
+		{
+			"address": "Ap #966-2166 Augue St.",
+			"latitude": 68.4956097536,
+			"longitude": -49.9768583168,
+			"country": "Sweden"
+		},
+		{
+			"address": "489-6654 Proin St.",
+			"latitude": -47.6620279808,
+			"longitude": 160.0393252864,
+			"country": "United States"
+		},
+		{
+			"address": "Ap #963-7120 Nunc Av.",
+			"latitude": 52.6864391168,
+			"longitude": 173.4810198016,
+			"country": "Italy"
+		},
+		{
+			"address": "Ap #158-7761 Pede. Avenue",
+			"latitude": -33.6014618624,
+			"longitude": 15.7334144,
+			"country": "Netherlands"
+		},
+		{
+			"address": "467-7728 Velit. Ave",
+			"latitude": -75.549057536,
+			"longitude": 167.4894553088,
+			"country": "Ukraine"
+		},
+		{
+			"address": "Ap #663-9818 Eu, St.",
+			"latitude": -88.5924651008,
+			"longitude": -111.5555718144,
+			"country": "Nigeria"
+		},
+		{
+			"address": "639-3719 A, St.",
+			"latitude": 14.5134683136,
+			"longitude": -154.0316370944,
+			"country": "New Zealand"
+		},
+		{
+			"address": "Ap #220-7291 Laoreet St.",
+			"latitude": -64.9829153792,
+			"longitude": -24.9446136832,
+			"country": "Austria"
+		},
+		{
+			"address": "Ap #215-7781 Lacinia Av.",
+			"latitude": 60.7774316544,
+			"longitude": 154.7182848,
+			"country": "Austria"
+		}
+	]
+}
