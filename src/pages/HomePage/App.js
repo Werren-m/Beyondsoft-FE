@@ -10,14 +10,14 @@ import {
 import './App.css'
 
 import dummyData from '../../dataset.json'
-import { transformData } from '../../services/transformData'
+import { transformAddress } from '../../utils/transformAddress'
 import MapChart from '../../components/Map'
 
 const App = () => {
 
   const [choosenAddress, setChoosenAddress] = useState('')
 
-  const data = transformData(dummyData.data)
+  const data = transformAddress(dummyData.data)
 
   const handleChange = (event, newValue) => {
     setChoosenAddress(_.pick(newValue, 'address', 'latitude', 'longitude', 'country'))
