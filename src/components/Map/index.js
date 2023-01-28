@@ -17,10 +17,7 @@ const MapChart = (props) => {
 
   return (
     <ComposableMap style={props.style}>
-      <ZoomableGroup
-          zoom={4}
-          center={[latitude, longitude]}
-      >
+      <ZoomableGroup zoom={4} center={[latitude, longitude]}>
         <Geographies geography={geoUrl}>
           {({ geographies }) =>
             geographies.map((geo) => (
@@ -29,7 +26,7 @@ const MapChart = (props) => {
           }
         </Geographies>
         <Marker coordinates={[latitude, longitude]}>
-          <circle r={8} fill="#F53" />
+          <circle r={4} fill="#F53" />
         </Marker>
       </ZoomableGroup>
     </ComposableMap>
