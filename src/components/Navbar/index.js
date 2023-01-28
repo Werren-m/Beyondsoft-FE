@@ -12,7 +12,7 @@ const Navbar = () => {
 				<Anchor
 					items={[
 						{
-							href: '/map',
+							href: '/',
 							title: (<img src={wideLogo} alt="" style={styles.logo} />),
 						}
 					]}
